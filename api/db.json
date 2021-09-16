@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream 2",
+      "description": "Pleasant tunes",
+      "id": 1
+    },
+    {
+      "description": "Uhnutha Wunnn",
+      "title": "DJ Khaled Stream",
+      "id": 2
+    },
+    {
+      "title": "Kanga",
+      "description": "ROOOOOOOOOOOOOOOOOO",
+      "id": 3
+    }
+  ]
+}
